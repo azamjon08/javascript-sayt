@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    width: 1100px;
+    height: 500px;
+    background-image: url(../img/pexels-mali-maeder-143133.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.box{
+   width: 400px;
+   height: 200px;
+   background-color: #fff;
+   margin-top: 400px;
+   margin-left: 700px;
+   border-radius: 10px;
+}
+.btn{
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: royalblue;
+    padding: 5px 8px;
+    border-radius: 20px;
+    color: #fff;
+}
+.btn:hover{
+    background-color: #fff;
+    color: royalblue;
+    border: 2px solid royalblue;
+}
+.box h1{
+    margin-left: 100px;
+    padding-top: 50px;
+}
+
+.boy{
+    
+    width: 400px;
+    height: 200px;
+    background-color: #fff;
+    margin-top: 400px;
+    margin-left: 700px;
+    border-radius: 10px;
+}
+.close{
+    margin-left: 370px;
+
+}
+.close:hover{
+    background-color: rgb(255, 70, 70);
+    
+}
+.boy h1{
+   margin-left: 90px;
+   margin-top: 40px;
+}
